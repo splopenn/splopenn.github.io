@@ -18,23 +18,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Spencer Pennington / Technical Writer
+title: Spencer Pennington // Technical Writer and Editor
 author: Spencer Pennington
 email: splopenn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello -- I'm Spencer Pennington, a technical writer
-  living in Chattanooga, Tennessee.
+  Spencer is a user-focused technical communicator
+  based in Chattanooga, Tennessee.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://splopenn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: splopenn
+# twitter_username: jekyllrb
+github_username:  splopenn
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-
-  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
