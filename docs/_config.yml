@@ -22,7 +22,7 @@ title: Spencer Pennington -- Technical Writer
 email: splopenn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello -- I'm Spencer Pennington, an
-  <a href="https://nested.substack.com/p/short-fat-engineers-are-undervalued">underscore-shaped</a>
+  [underscore-shaped](https://nested.substack.com/p/short-fat-engineers-are-undervalued)
   technical writer living in Chattanooga, Tennessee. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://splopenn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
