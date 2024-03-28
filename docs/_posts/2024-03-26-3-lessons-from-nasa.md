@@ -2,7 +2,7 @@
 layout: post
 title:  "3 Lessons from NASA"
 date:   2024-03-26 12:00:00 -0400
-categories: writing, project management
+categories: writing
 ---
 My grandfather worked on the Apollo 11 mission as a contractor with Lockheed Electronics. He was one very small part of a huge operation. But he had a specific, important role, and he filled it with excellence. However, he did have one complaint: **He hated documenting his work**.
 
