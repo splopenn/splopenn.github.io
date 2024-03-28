@@ -30,7 +30,7 @@ url: "splopenn.github.io" # the base hostname & protocol for your site, e.g. htt
 github_username:  splopenn
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
