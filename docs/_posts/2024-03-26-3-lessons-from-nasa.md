@@ -8,7 +8,7 @@ My grandfather worked on the Apollo 11 mission as a contractor with Lockheed Ele
 
 He was and is an outstanding engineer, but his mind works so fast that it's hard for him to slow down and record what he's done. Besides, time spent making notes is time spent *not working on his project*.
 
-Understanding that about my grandfather guided my approack to [NASA's Proposal Writing and Evaluation Experience](https://www.lspace.asu.edu/npwee-academy). I learned three main things.
+Understanding that about my grandfather guided my approach to [NASA's Proposal Writing and Evaluation Experience](https://www.lspace.asu.edu/npwee-academy). I learned three main things.
 
 # Take the load off
 
