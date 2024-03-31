@@ -19,7 +19,9 @@ I'm also hoping to learn enough code to be [dangerous](http://hackwrite.com/post
 [LinkedIn](https://www.linkedin.com/in/slpennington/)
 
 ## Portfolio
-[Evergreen ILS Staff Catalog](https://docs.evergreen-ils.org/docs/latest/staff_catalog/introduction.html)
-[Source files ^](https://github.com/evergreen-library-system/Evergreen/tree/main/docs/modules/staff_catalog)
-[Writing Samples](https://drive.google.com/drive/u/0/folders/1-53Rq3FfOdOlGq3WiFVl1LstvLwc5UJP)
 
+[Evergreen ILS Staff Catalog](https://docs.evergreen-ils.org/docs/latest/staff_catalog/introduction.html)
+
+[Source files ^](https://github.com/evergreen-library-system/Evergreen/tree/main/docs/modules/staff_catalog)
+
+[Writing Samples](https://drive.google.com/drive/u/0/folders/1-53Rq3FfOdOlGq3WiFVl1LstvLwc5UJP)
