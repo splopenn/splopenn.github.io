@@ -30,13 +30,13 @@ This frees us up to work as a team on the things that really matter. It gives te
 
 # Get buy-in
 
-What a cliche &mdash; but like many cliches, there's truth to it. Only a couple of my teammates knew what a technical writer was, and few if any had ever worked with one. So, I took that as a chance to explicitly demonstrate the value of technical writers on any team.
+What a cliche&mdash;but like many cliches, there's truth to it. Only a couple of my teammates knew what a technical writer was, and few if any had ever worked with one. So, I took that as a chance to explicitly demonstrate the value of technical writers on any team.
 
 How did I do this? Mainly, I just showed up and did the work. All of the little stylistic things that are so annoying to technical teammates are almost second-nature to me: punctuation, citations, consistency, tense, voice, etc. 
 
 Of course, they were absolutely able to create citations and ensure good style, but if you're an engineer, wouldn't you rather spend time building instead of proofreading?
 
-# Jump in early &mdash; and really jump in
+# Jump in early&mdash;and really jump in
 
 Earlier, I mentioned I was elected to be my team's project manager. How?
 
