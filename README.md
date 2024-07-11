@@ -1,6 +1,6 @@
 # Welcome!
 
-This&mdash;is the repository for my GitHub Pages site, using Jekyll. 
+This is the repository for my GitHub Pages site, using Jekyll. 
 
 Right now, you can find a blog feed and brief About page.
 
