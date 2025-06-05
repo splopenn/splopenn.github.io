@@ -2,7 +2,7 @@
 layout: post
 title:  "Docs as Customer Service"
 date:   2024-03-28 12:00:00 -0400
-categories: writing
+categories: technical-writing
 ---
 My library’s patron catalog is hard to use for most people. The main thing that trips folks up is that they have to choose their library from a drop-down menu at the end of the search row. I know that sounds simple, but by default the catalog searches every library in the state &mdash; so patrons spend a lot of time scouring our shelves for books we don’t actually own. 
 

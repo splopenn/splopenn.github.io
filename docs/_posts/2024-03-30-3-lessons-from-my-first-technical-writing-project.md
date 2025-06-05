@@ -2,7 +2,7 @@
 layout: post
 title:  "3 Lessons From My First Technical Writing Project"
 date:   2024-03-30 12:00:00 -0400
-categories: writing
+categories: technical-writing
 ---
 I recently wrote my first set of documentation that wasn’t part of a classroom assignment. It was tough, but I learned a lot. (Much of it by trial and error.)
 

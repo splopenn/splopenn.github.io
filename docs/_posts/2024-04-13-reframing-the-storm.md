@@ -2,7 +2,7 @@
 layout: post
 title:  "Reframing the Storm"
 date:   2024-04-13 12:00:00 -0400
-categories: collaboration
+categories: professional
 ---
 Disagreement, even argument, is a normal part of working on a team. In fact, you can pretty much predict when the most disagreement will happen.
 

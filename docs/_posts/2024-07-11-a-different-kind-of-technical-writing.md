@@ -2,7 +2,7 @@
 layout: post
 title:  "A Different Kind of Technical Writing"
 date:   2024-07-11 12:00:00 -0400
-categories: writing
+categories: technical-writing
 ---
 I’m a month and some change into a new job at [iFixit](https://www.ifixit.com/), a company dedicated to making [repair](https://www.ifixit.com/repairability) accessible to everyone. My [title](https://www.ifixit.com/User/4381611/Spencer+Pennington) is junior technical writer, but it’s not your usual tech writing job. 
 

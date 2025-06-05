@@ -2,7 +2,7 @@
 layout: post
 title:  "Dive into DITA"
 date:   2025-06-04 12:00:00 -0400
-categories: writing, career
+categories: technical-writing
 ---
 DITA. It's a [sunglasses brand](https://dita.com/), but it's also an [architecture for representing documentation](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture). More than that, it's something I understand as a concept, but haven't had any chances to use. So, I thought I'd jump in.
 

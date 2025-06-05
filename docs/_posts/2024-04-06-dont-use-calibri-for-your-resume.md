@@ -2,7 +2,7 @@
 layout: post
 title:  "Don't Use Calibri for Your Resume!"
 date:   2024-04-06 12:00:00 -0400
-categories: jobsearch
+categories: professional
 ---
 **Don't use Calibri for your résumé!** Here's why...
 

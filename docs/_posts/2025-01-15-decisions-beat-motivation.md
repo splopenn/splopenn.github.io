@@ -2,7 +2,7 @@
 layout: post
 title:  "Decisions Beat Motivation"
 date:   2025-1-15 12:00:00 -0400
-categories: writing, career
+categories: professional
 ---
 I was talking to my therapist about how I struggle to write every day. I told him I just don't feel motivated. I don't *feel* like it, I said.
 
